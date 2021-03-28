@@ -1,0 +1,7 @@
+ipywidgets 
+cufflinks
+pandas 
+yfinance
+plotly
+gunicorn
+voila
